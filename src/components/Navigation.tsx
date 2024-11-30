@@ -16,12 +16,14 @@ export default function Navigation() {
         >
           PORTFOLIO
         </Link>
-        <Link 
-          href="/resume" 
+        <a 
+          href="https://drive.google.com/file/d/1rQvDcThI_OT_NEsOCeHxvZA_FU04_5z4/view"
           className="text-sm hover:text-gray-600 transition-colors"
+          target="_blank"
+          rel="noopener noreferrer"
         >
           RESUME
-        </Link>
+        </a>
       </div>
     </nav>
   )
