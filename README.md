@@ -2,7 +2,7 @@
 
 WeWelcome to my personal website repository! This website serves as a digital portfolio and blog platform where I share my thoughts on what I've recently learned and nenew interests!
 
-🌐 Live Website: https://yudduy.com
+🌐 Live Website: https://v0-personal-site-hj1va5h0nwl.vercel.app/
 
 ## Features
 - 🏠 Home Page: Introduction and personal highlights
