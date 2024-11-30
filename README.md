@@ -38,4 +38,4 @@ WeWelcome to my personal website repository! This website serves as a digital po
 📧 duynguy@stanford.edu
 
 ---
-BuBuilt with Next.js and deployed on Vercel
+Built with Next.js and deployed on Vercel
