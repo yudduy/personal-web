@@ -7,7 +7,6 @@ import Navigation from '@/components/Navigation'
 import Footer from '@/components/Footer'
 import RotatingTitles from '@/components/RotatingTitles'
 
-// This array would typically come from a database or API
 const blogPosts = [
   {
     title: "Vertical AI Agents",
@@ -24,7 +23,6 @@ const blogPosts = [
     description: "My personal Booth Prize nominee research-based argument (RBA) on the dilemma of elite colleges and non-elite high school students.",
     link: "https://drive.google.com/file/d/1EBg8DY2BNiEmL9pjxNb_dmuNMzhiwxm2/view?usp=sharing"
   },
-  // Add more blog posts here...
 ]
 
 export default function Home() {
