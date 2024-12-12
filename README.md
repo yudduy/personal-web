@@ -5,16 +5,16 @@ Hello! Welcome to my personal website repository! This is my space where I share
 🌐 Live Website: https://duynguy.vercel.app/ 
 
 ## Features
-- 🏠 Home Page: Introduction and personal highlights
-- 📝 Blog Posts: Thoughts on super interesting topics/content
-- 📸 Image Gallery: Visual journey through my experiences
-- 📱 Responsive Design: Optimized for all device sizes
+- Home Page: Introduction and personal highlights
+- Blog Posts: Thoughts on super interesting topics/content
+- Image Gallery: Visual journey through my experiences
+- Responsive Design: Optimized for all device sizes
 
 ## Tech Stack
-- ⚡ Next.js 15
-- 🎨 Tailwind CSS
-- 💻 TypeScript
-- 🚀 Deployed on Vercel
+- Next.js 15
+- Tailwind CSS
+- TypeScript
+- Deployed on Vercel
 
 ## Local Development
 
