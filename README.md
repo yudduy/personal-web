@@ -1,6 +1,6 @@
 # Duy Nguyen's Personal Website
 
-WeWelcome to my personal website repository! This website serves as a digital portfolio and blog platform where I share my thoughts on what I've recently learned and nenew interests!
+Hello! Welcome to my personal website repository! This is my space where I share my thoughts on what I've recently learned and any new interests!
 
 🌐 Live Website: https://duynguy.vercel.app/ 
 
