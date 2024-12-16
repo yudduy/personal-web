@@ -86,7 +86,7 @@ export default function Portfolio() {
                   <ul className="list-disc list-inside space-y-1 text-gray-600">
                     <li>Developed LLM Agent for genomic research queries</li>
                     <li>Integrated APIs from public biological databases</li>
-                    <li>Achieved 11% better accuracy vs ChatGPT 3.0</li>
+                    <li>Achieved 11% better accuracy vs ChatGPT 3.5</li>
                     <li>Co-authored and presented research paper</li>
                   </ul>
                 </div>
